@@ -1,7 +1,6 @@
 ![MasterHead](https://w.wallhaven.cc/full/8o/wallhaven-8o699y.jpg)
 # Hi 👋, I'm Edward Winnie
 <h3 align="center">A passionate tech enthusiast from Philippines</h3>
-<img width="400" align="right" src="https://media0.giphy.com/media/oFvFtrhrmIFFe/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitflex&label=Profile%20views&color=0e75b6&style=flat" alt="hitflex" /> </p>
 
