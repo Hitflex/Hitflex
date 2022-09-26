@@ -1,6 +1,6 @@
 # Hi 👋, I'm Edward Winnie
 <h3 align="center">A passionate tech enthusiast from Philippines</h3>
-<img align="right" src="https://quickhoney.tumblr.com/image/128389271746"/>
+<img align="right" src="https://giphy.com/gifs/mr-robot-gif-art-portrait-oFvFtrhrmIFFe"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitflex&label=Profile%20views&color=0e75b6&style=flat" alt="hitflex" /> </p>
 
